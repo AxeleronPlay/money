@@ -1,0 +1,723 @@
+[
+ {
+  "id": "9nd0",
+  "name_en": "Spectral Crystal",
+  "name_ru": "Призрачный кристалл",
+  "category": "electrophysical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "1k96",
+  "name_en": "Rattle",
+  "name_ru": "Трещотка",
+  "category": "electrophysical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "gyn0",
+  "name_en": "Comet",
+  "name_ru": "Комета",
+  "category": "electrophysical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "zy32",
+  "name_en": "Battery",
+  "name_ru": "Батарейка",
+  "category": "electrophysical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "5r5g",
+  "name_en": "Ice Hedgehog",
+  "name_ru": "Ледяной ежик",
+  "category": "electrophysical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "y54z",
+  "name_en": "Kettlebell",
+  "name_ru": "Гиря",
+  "category": "electrophysical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "wg3p",
+  "name_en": "Disintegrator",
+  "name_ru": "Дезинтегратор",
+  "category": "electrophysical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "4lkp",
+  "name_en": "Ilyich Lamp",
+  "name_ru": "Лампочка Ильича",
+  "category": "electrophysical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "kqr0",
+  "name_en": "Helium",
+  "name_ru": "Гелий",
+  "category": "electrophysical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "qo06",
+  "name_en": "Transformer",
+  "name_ru": "Трансформатор",
+  "category": "electrophysical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "lj0j",
+  "name_en": "Coil",
+  "name_ru": "Катушка",
+  "category": "electrophysical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "gy10",
+  "name_en": "Red Crystal",
+  "name_ru": "Красный кристалл",
+  "category": "thermal",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "zyw2",
+  "name_en": "Candlelight",
+  "name_ru": "Огонек",
+  "category": "thermal",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "5rog",
+  "name_en": "Leech",
+  "name_ru": "Пиявка",
+  "category": "thermal",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "y5nz",
+  "name_en": "Wolf Tears",
+  "name_ru": "Волчьи слезы",
+  "category": "thermal",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "wglp",
+  "name_en": "Viburnum Branch",
+  "name_ru": "Ветка Калины",
+  "category": "thermal",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "4l7p",
+  "name_en": "Scallop",
+  "name_ru": "Гребешок",
+  "category": "thermal",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "kqp0",
+  "name_en": "Firebird",
+  "name_ru": "Жар-птица",
+  "category": "thermal",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "qoq6",
+  "name_en": "Sun",
+  "name_ru": "Солнце",
+  "category": "thermal",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "jkq7",
+  "name_en": "Magma",
+  "name_ru": "Магма",
+  "category": "thermal",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "ljrj",
+  "name_en": "Radiator",
+  "name_ru": "Радиатор",
+  "category": "thermal",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "rnvg",
+  "name_en": "Cone",
+  "name_ru": "Шишка",
+  "category": "thermal",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "9n1w",
+  "name_en": "Berry",
+  "name_ru": "Ягодка",
+  "category": "gravity",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "1k4q",
+  "name_en": "Lard",
+  "name_ru": "Сало",
+  "category": "gravity",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "gypg",
+  "name_en": "Embryo",
+  "name_ru": "Плод",
+  "category": "gravity",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "zyo9",
+  "name_en": "Swamp Rot",
+  "name_ru": "Болотный гнилец",
+  "category": "gravity",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "5r34",
+  "name_en": "Heart",
+  "name_ru": "Сердце",
+  "category": "gravity",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "y5yw",
+  "name_en": "Dumbbell",
+  "name_ru": "Гантель",
+  "category": "gravity",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "wgzd",
+  "name_en": "Frame",
+  "name_ru": "Остов",
+  "category": "gravity",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "gyjg",
+  "name_en": "Acid Crystal",
+  "name_ru": "Кислотный кристалл",
+  "category": "biochemical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "zyv9",
+  "name_en": "Lollipop",
+  "name_ru": "Кисель",
+  "category": "biochemical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "5r04",
+  "name_en": "Phlegm",
+  "name_ru": "Флегма",
+  "category": "biochemical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "y5vw",
+  "name_en": "Crust",
+  "name_ru": "Скорлупа",
+  "category": "biochemical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "wgvd",
+  "name_en": "Inkwell",
+  "name_ru": "Чернильница",
+  "category": "biochemical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "4lml",
+  "name_en": "Snake Eye",
+  "name_ru": "Змеиный глаз",
+  "category": "biochemical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "kqj3",
+  "name_en": "Snail",
+  "name_ru": "Улитка",
+  "category": "biochemical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "qo59",
+  "name_en": "Gum",
+  "name_ru": "Жвачка",
+  "category": "biochemical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "jkj4",
+  "name_en": "Lemna",
+  "name_ru": "Ряска",
+  "category": "biochemical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "ljpq",
+  "name_en": "Polyhedron",
+  "name_ru": "Многогранник",
+  "category": "biochemical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "rnkl",
+  "name_en": "Snares",
+  "name_ru": "Силки",
+  "category": "other_arts",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "04yr",
+  "name_en": "Cycle",
+  "name_ru": "Виток",
+  "category": "biochemical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "9nml",
+  "name_en": "Burr",
+  "name_ru": "Репях",
+  "category": "biochemical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "1kdg",
+  "name_en": "Sticky Burr",
+  "name_ru": "Липкий репях",
+  "category": "biochemical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "gy06",
+  "name_en": "Scrubber",
+  "name_ru": "Ершик",
+  "category": "biochemical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "zy7y",
+  "name_en": "Hedgehog",
+  "name_ru": "Ежик",
+  "category": "biochemical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "5rd1",
+  "name_en": "Steel Hedgehog",
+  "name_ru": "Стальной Ежик",
+  "category": "biochemical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "gyv6",
+  "name_en": "Rose",
+  "name_ru": "Роза",
+  "category": "gravity",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "zyly",
+  "name_en": "Onion",
+  "name_ru": "Цибуля",
+  "category": "gravity",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "5rg1",
+  "name_en": "Cursed Rose",
+  "name_ru": "Проклятая роза",
+  "category": "gravity",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "y5jk",
+  "name_en": "Veiner",
+  "name_ru": "Жильник",
+  "category": "gravity",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "wg62",
+  "name_en": "White Rose",
+  "name_ru": "Белая роза",
+  "category": "gravity",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "4l1r",
+  "name_en": "Proto-Onion",
+  "name_ru": "Протоцибуля",
+  "category": "gravity",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "kqgy",
+  "name_en": "Bracelet",
+  "name_ru": "Браслет",
+  "category": "gravity",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "qokj",
+  "name_en": "Pumpkin",
+  "name_ru": "Тыква",
+  "category": "gravity",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "9nvy",
+  "name_en": "Sponge",
+  "name_ru": "Вехотка",
+  "category": "gravity",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "1kv2",
+  "name_en": "Prima",
+  "name_ru": "Прима",
+  "category": "gravity",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "gyg5",
+  "name_en": "Shrimp",
+  "name_ru": "Креветка",
+  "category": "gravity",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "zypm",
+  "name_en": "Golden Prima",
+  "name_ru": "Золотистая Прима",
+  "category": "gravity",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "5rpq",
+  "name_en": "Amberite",
+  "name_ru": "Янтарник",
+  "category": "gravity",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "y5m3",
+  "name_en": "Cryogen",
+  "name_ru": "Криоген",
+  "category": "gravity",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "wgr3",
+  "name_en": "Dark Crystal",
+  "name_ru": "Темный кристалл",
+  "category": "gravity",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "4lpo",
+  "name_en": "Static",
+  "name_ru": "Статик",
+  "category": "gravity",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "gyq5",
+  "name_en": "Spiral",
+  "name_ru": "Спираль",
+  "category": "electrophysical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "zyrm",
+  "name_en": "Mirror",
+  "name_ru": "Зеркало",
+  "category": "electrophysical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "5rwq",
+  "name_en": "Shard",
+  "name_ru": "Осколок",
+  "category": "electrophysical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "y5w3",
+  "name_en": "Prism",
+  "name_ru": "Призма",
+  "category": "electrophysical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "wg53",
+  "name_en": "Atom",
+  "name_ru": "Атом",
+  "category": "electrophysical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "gyln",
+  "name_en": "Frost",
+  "name_ru": "Иней",
+  "category": "thermal",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "zyqk",
+  "name_en": "Leaded Glass",
+  "name_ru": "Хрусталь",
+  "category": "thermal",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "5rzo",
+  "name_en": "Rime",
+  "name_ru": "Корка",
+  "category": "thermal",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "y5k0",
+  "name_en": "Whirlwind",
+  "name_ru": "Вихрь",
+  "category": "thermal",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "wgwz",
+  "name_en": "Fahrenheit",
+  "name_ru": "Фаренгейт",
+  "category": "thermal",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "kqoj",
+  "name_en": "Heel",
+  "name_ru": "Каблук",
+  "category": "thermal",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "qo94",
+  "name_en": "Chicken God",
+  "name_ru": "Куриный бог",
+  "category": "thermal",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "jkml",
+  "name_en": "Eye of the Storm",
+  "name_ru": "Глаз бури",
+  "category": "thermal",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "ljn2",
+  "name_en": "Chilly",
+  "name_ru": "Морозец",
+  "category": "thermal",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "rn1z",
+  "name_en": "Opal",
+  "name_ru": "Опал",
+  "category": "thermal",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "9n7z",
+  "name_en": "Rubik",
+  "name_ru": "Рубик",
+  "category": "other_arts",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "1kw1",
+  "name_en": "Crystal of Inside Out",
+  "name_ru": "Кристалл Изнанки",
+  "category": "other_arts",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "gy7p",
+  "name_en": "Retina",
+  "name_ru": "Сетчатка",
+  "category": "other_arts",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "zymn",
+  "name_en": "Tallow",
+  "name_ru": "Смалец",
+  "category": "other_arts",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "5rm0",
+  "name_en": "Tiny Key",
+  "name_ru": "Ключик",
+  "category": "other_arts",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "y5ro",
+  "name_en": "Egg",
+  "name_ru": "Яйцо",
+  "category": "other_arts",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "wgko",
+  "name_en": "Inside Out Rose",
+  "name_ru": "Роза Изнанки",
+  "category": "other_arts",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "4lrn",
+  "name_en": "Bismuth",
+  "name_ru": "Висмут",
+  "category": "other_arts",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "kq4v",
+  "name_en": "Dark Viburnum",
+  "name_ru": "Темная калина",
+  "category": "other_arts",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "qodk",
+  "name_en": "Bubblegum",
+  "name_ru": "Бубльгум",
+  "category": "other_arts",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "jky6",
+  "name_en": "Raisin",
+  "name_ru": "Изюм",
+  "category": "other_arts",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "w4no",
+  "name_en": "Colophony",
+  "name_ru": "Канифоль",
+  "category": "other_arts",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "49zn",
+  "name_en": "Stress Fest",
+  "name_ru": "Нервяк",
+  "category": "other_arts",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "k3yv",
+  "name_en": "Hoop",
+  "name_ru": "Обруч",
+  "category": "other_arts",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "q1lk",
+  "name_en": "Gills",
+  "name_ru": "Жабры",
+  "category": "other_arts",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "j3p6",
+  "name_en": "Fossil",
+  "name_ru": "Смольник",
+  "category": "other_arts",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "g34p",
+  "name_en": "Peg-Top",
+  "name_ru": "Юла",
+  "category": "biochemical",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "zjzn",
+  "name_en": "Timber",
+  "name_ru": "Полено",
+  "category": "other_arts",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "51l0",
+  "name_en": "Mug",
+  "name_ru": "Харя",
+  "category": "other_arts",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "yq3o",
+  "name_en": "Larva",
+  "name_ru": "Личинка",
+  "category": "other_arts",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "w4jo",
+  "name_en": "Black Hole",
+  "name_ru": "Черная дыра",
+  "category": "other_arts",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "7z77",
+  "name_en": "Jelly",
+  "name_ru": "Желе",
+  "category": "other_arts",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "6goy",
+  "name_en": "Loop",
+  "name_ru": "Петля",
+  "category": "other_arts",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "k3rv",
+  "name_en": "Wicked Hedgehog",
+  "name_ru": "Чертов еж",
+  "category": "other_arts",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "q10k",
+  "name_en": "Link",
+  "name_ru": "Звено",
+  "category": "other_arts",
+  "color": "DEFAULT"
+ },
+ {
+  "id": "j306",
+  "name_en": "Flicker",
+  "name_ru": "Всполох",
+  "category": "other_arts",
+  "color": "DEFAULT"
+ }
+]
